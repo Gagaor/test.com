@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(161, 179, 179);
+    color: white;
+    text-align: center;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-size: 25px;
+}    
